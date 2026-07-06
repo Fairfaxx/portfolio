@@ -238,7 +238,7 @@ export default function FefePortfolioLanding() {
             <div className="space-y-6">
               {[
                 ['Location', 'Buenos Aires, Argentina'],
-                ['Experience', '6+ years building web products'],
+                ['Experience', '7+ years building web products'],
                 ['Current focus', 'Frontend, AI workflows, B2B SaaS'],
                 ['Best fit', 'High-ownership product teams'],
               ].map(([label, value]) => (
