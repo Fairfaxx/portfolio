@@ -196,7 +196,7 @@ export default function FefePortfolioLanding() {
 
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <a
-              href="mailto:federico.lemaire@example.com"
+              href="mailto:federico.lemaire@gmail.com"
               className="group inline-flex items-center justify-center gap-2 rounded-full bg-[#f4f0e8] px-6 py-3 text-sm font-semibold text-[#0f0f0d] transition hover:scale-[1.02]"
             >
               Contact me{' '}
