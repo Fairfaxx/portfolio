@@ -384,7 +384,7 @@ export default function FefePortfolioLanding() {
             </div>
             <div className="space-y-3">
               <a
-                href="mailto:federico.lemaire@example.com"
+                href="mailto:federico.lemaire@gmail.com"
                 className="flex items-center justify-between rounded-full bg-[#0f0f0d] px-6 py-4 font-semibold text-[#f4f0e8] transition hover:scale-[1.01]"
               >
                 <span>Email me</span>
